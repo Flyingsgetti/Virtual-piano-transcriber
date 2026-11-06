@@ -6,6 +6,10 @@ Transcribes piano tutorial videos into virtual piano sheets.
 
 [Watch the demo video](A-23%20Piano%20Video%20Transcriber%20-%20Opera%202026-11-05%2020-35-59%20(1).mp4) to see the app in action.
 
+## Tune to these settings
+
+![Tune to these settings](docs/tune-to-these-settings.png)
+
 ## Start the app
 
 1. Open PowerShell.
