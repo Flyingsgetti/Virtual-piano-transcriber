@@ -8,7 +8,7 @@ Transcribes piano tutorial videos into virtual piano sheets.
 
 ## Tune to these settings
 
-![Tune to these settings](docs/tune-to-these-settings.png)
+![Tune to these settings](image_2026-11-05_210258152.png)
 
 ## Start the app
 
